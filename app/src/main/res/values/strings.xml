@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Italiano di Hanna</string>
+    <string name="login">Login</string>
+    <string name="password">Enter your password</string>
+    <string name="email">Enter your email</string>
+    <string name="proceed">Proceed</string>
+    <string name="l_o_g_i_n">L O G I N</string>
+    <string name="register">Register</string>
+    <string name="r_e_g_i_s_t_e_r">R E G I S T E R</string>
+    <string name="return_to_login">Return to Login</string>
+    <string name="italiano_de_hanna">Italiano de Hanna</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="logout">Logout</string>
+    <string name="checkout">checkout</string>
+    <string name="m_e_n_u">M E N U</string>
+    <string name="a_d_d">A D D</string>
+
+
+</resources>
